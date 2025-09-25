@@ -1,1 +1,3 @@
 Please note that save the subject data into a Matlab Struct format, with the original time series and the FA weighted structural connectome. Run the submission for the jobs on the cluster and the dynamic graph Laplacian learned and the denoised graph signal will be estimated.
+Modify the library paths, data dimensions, number of iterations, and hyperparameters if needed.
+The code only explains the graph Laplacian learning for dFC guided by the structural connectome, please examine the coupling between the SC and FC if possible before applying the method. The codes for the downstream regression task is user specific and thus is hidden.
