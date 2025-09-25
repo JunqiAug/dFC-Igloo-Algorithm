@@ -1,0 +1,1 @@
+Please note that save the subject data into a Matlab Struct format, with the original time series and the FA weighted structural connectome. Run the submission for the jobs on the cluster and the dynamic graph Laplacian learned and the denoised graph signal will be estimated.
